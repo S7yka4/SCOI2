@@ -1,0 +1,90 @@
+D:\GithubRemasters\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.exe
+D:\GithubRemasters\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.deps.json
+D:\GithubRemasters\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.json
+D:\GithubRemasters\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.dev.json
+D:\GithubRemasters\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.dll
+D:\GithubRemasters\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\ref\SCOI2V2.dll
+D:\GithubRemasters\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.pdb
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.AssemblyReference.cache
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.Form1.resources
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.GenerateResource.cache
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfoInputs.cache
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfo.cs
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.CoreCompileInputs.cache
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.dll
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\ref\SCOI2V2.dll
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.pdb
+D:\GithubRemasters\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.genruntimeconfig.cache
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.AssemblyReference.cache
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.Form1.resources
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.GenerateResource.cache
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfoInputs.cache
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfo.cs
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.CoreCompileInputs.cache
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.dll
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\ref\SCOI2V2.dll
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.pdb
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.exe
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.deps.json
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.json
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.dev.json
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.dll
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\ref\SCOI2V2.dll
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.pdb
+C:\Users\S7yka4\Documents\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.genruntimeconfig.cache
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.exe
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.deps.json
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.json
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.dev.json
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.dll
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\bin\Debug\net5.0-windows\ref\SCOI2V2.dll
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.pdb
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.AssemblyReference.cache
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.Form1.resources
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.GenerateResource.cache
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfoInputs.cache
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfo.cs
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.CoreCompileInputs.cache
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.dll
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\ref\SCOI2V2.dll
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.pdb
+C:\Users\S7yka4\Documents\Новая папка\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.genruntimeconfig.cache
+D:\загрузки\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.exe
+D:\загрузки\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.deps.json
+D:\загрузки\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.json
+D:\загрузки\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.dev.json
+D:\загрузки\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.dll
+D:\загрузки\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\ref\SCOI2V2.dll
+D:\загрузки\SCOI2V2\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.pdb
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.AssemblyReference.cache
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.Form1.resources
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.GenerateResource.cache
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfoInputs.cache
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfo.cs
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.CoreCompileInputs.cache
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.dll
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\ref\SCOI2V2.dll
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.pdb
+D:\загрузки\SCOI2V2\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.genruntimeconfig.cache
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.exe
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.deps.json
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.json
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.runtimeconfig.dev.json
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.dll
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\bin\Debug\net5.0-windows\ref\SCOI2V2.dll
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\bin\Debug\net5.0-windows\SCOI2V2.pdb
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.AssemblyReference.cache
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.Form1.resources
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.GenerateResource.cache
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfoInputs.cache
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.AssemblyInfo.cs
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.csproj.CoreCompileInputs.cache
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.dll
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\ref\SCOI2V2.dll
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.pdb
+D:\загрузки\SCOI2V2 (2)\SCOI2V2\obj\Debug\net5.0-windows\SCOI2V2.genruntimeconfig.cache
