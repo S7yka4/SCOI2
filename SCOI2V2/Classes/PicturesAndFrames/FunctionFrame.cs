@@ -10,25 +10,23 @@ using System.Threading.Tasks;
 
 namespace SCOI2V2.Classes.PicturesAndFrames
 {
+   
     unsafe class FunctionFrame:Picture
     {
-        byte[] Arr;
-
+        InterpolationInterface LI;
         void SetWhite(int i)
         {
-            fixed (byte* Ptr = Arr)
+            
+            fixed (byte* Ptr = DefaultArr)
             {
-                fixed (byte* Ptr2 = DefaultArr)
-                {
-                    byte* tmp = Ptr, def = Ptr2;
-                    *(tmp + i) = 255;
-                }
+
+                byte* tmp = Ptr;
+                *(tmp + i) = 255;
             }
         }
         public FunctionFrame():base(new Bitmap(512,512))
         {
-            Arr = new byte[3*512*512];
-         
+
         }
 
         public void PaintItWhite()
@@ -46,7 +44,7 @@ namespace SCOI2V2.Classes.PicturesAndFrames
         public void DrawPoint(Point Point)
         {
 
-            fixed (byte* Ptr = Arr)
+            fixed (byte* Ptr = DefaultArr)
             {
                 byte* tmp = Ptr;
                 for (int m = Point.X - 5; m <= Point.X + 5; m++)
@@ -68,10 +66,10 @@ namespace SCOI2V2.Classes.PicturesAndFrames
             
         }
 
-        InterpolationInterface LI;
+        
         void DrawPartOfLine(int i)
         {
-            fixed (byte* Ptr = Arr)
+            fixed (byte* Ptr = DefaultArr)
             {
                 byte* tmp = Ptr;
                 int y = LI.FindByX(i);
@@ -103,14 +101,6 @@ namespace SCOI2V2.Classes.PicturesAndFrames
                     }
                 }
             }
-        }
-
-
-
-        override public Bitmap TakePicture()
-        {
-            Bitmap im = new Bitmap(Width, Height, stride, PixelFormat.Format24bppRgb, Marshal.UnsafeAddrOfPinnedArrayElement(Arr, 0));
-            return im;
         }
     }
 }

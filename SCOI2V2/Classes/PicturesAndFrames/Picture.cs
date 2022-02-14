@@ -55,7 +55,6 @@ namespace SCOI2V2.Classes.PicturesAndFrames
         {
 
             Bitmap im = new Bitmap(Width, Height, stride, PixelFormat.Format24bppRgb, Marshal.UnsafeAddrOfPinnedArrayElement(DefaultArr, 0));
-            DefaultArr = null;
             return im;
         }
 

@@ -11,18 +11,15 @@ namespace SCOI2V2.Classes.PicturesAndFrames
 {
     unsafe class GistagrammFrame: Picture
     {
-        byte[] Arr;
-        public int[] Gistagramm;
+        int[] Gistagramm;
 
         void SetWhite(int i)
         {
-            fixed (byte* Ptr = Arr)
+            fixed (byte* Ptr = DefaultArr)
             {
-                fixed (byte* Ptr2 = DefaultArr)
-                {
-                    byte* tmp = Ptr,def=Ptr2;
-                    *(tmp + i) = 255;
-                }
+
+                byte* tmp = Ptr;
+                *(tmp + i) = 255;
             }
         }
         public void PaintItWhite()
@@ -31,13 +28,12 @@ namespace SCOI2V2.Classes.PicturesAndFrames
         }
         public GistagrammFrame():base(new Bitmap(1024,170))
         {
-            Arr = new byte[1024 * 3 * 170];
-            Parallel.For(0, Width * 3 * Height, SetWhite);
+            PaintItWhite();
         }
 
         public void DrawTable(int num)
         {
-            fixed (byte* Ptr = Arr)
+            fixed (byte* Ptr = DefaultArr)
             {
                 int height = (int)(170 * 0.9) * Gistagramm[num] / Gistagramm.Max();
                 byte* wrk = Ptr;
@@ -55,12 +51,6 @@ namespace SCOI2V2.Classes.PicturesAndFrames
         {
             Gistagramm = _Gistagramm;
             Parallel.For(0, 256, DrawTable);
-        }
-
-        override public Bitmap TakePicture()
-        {
-            Bitmap im = new Bitmap(Width, Height, stride, PixelFormat.Format24bppRgb, Marshal.UnsafeAddrOfPinnedArrayElement(Arr, 0));
-            return im;
         }
     }
 }
