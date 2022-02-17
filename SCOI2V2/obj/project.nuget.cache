@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "tUw5bDguPJL6Lr7xUVNge50VD7Bn/9wMJC1Ylotlvpvh5Uv+Qd35ni4rbsCm2WpOfo+77jYgtgnYdVC5awaxKg==",
+  "dgSpecHash": "A1sxHFvct+AkVvyEQZdZIMasdX/ZTjaBk+mkID79jBEUl1MvjclbvNhQEtdB0JP8QhkJ2vPqicHr14ZiU0kdGQ==",
   "success": true,
-  "projectFilePath": "D:\\загрузки\\SCOI2V2 (2)\\SCOI2V2\\SCOI2V2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\S7yka4\\Desktop\\SCOI2-main\\SCOI2V2\\SCOI2V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S7yka4\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\S7yka4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\S7yka4\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\S7yka4\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

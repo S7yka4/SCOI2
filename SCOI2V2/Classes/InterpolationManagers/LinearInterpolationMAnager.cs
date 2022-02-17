@@ -76,7 +76,15 @@ namespace SCOI2V2.Classes.InterpolationManagers
         {
             Points = _Points;
             Function = new PartOfFunc[Points.Count - 1];
-            QuickSort(0, Points.Count - 1);
+            bool flag = true;
+            Parallel.For(0, Points.Count - 1, i =>
+            {
+                if (Points[i] == null)
+                    flag = false;
+            }
+            );
+            if(flag)
+                QuickSort(0, Points.Count - 1);
 
         }
 

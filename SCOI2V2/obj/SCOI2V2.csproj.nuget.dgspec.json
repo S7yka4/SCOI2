@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\загрузки\\SCOI2V2 (2)\\SCOI2V2\\SCOI2V2.csproj": {}
+    "C:\\Users\\S7yka4\\Desktop\\SCOI2-main\\SCOI2V2\\SCOI2V2.csproj": {}
   },
   "projects": {
-    "D:\\загрузки\\SCOI2V2 (2)\\SCOI2V2\\SCOI2V2.csproj": {
+    "C:\\Users\\S7yka4\\Desktop\\SCOI2-main\\SCOI2V2\\SCOI2V2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\загрузки\\SCOI2V2 (2)\\SCOI2V2\\SCOI2V2.csproj",
+        "projectUniqueName": "C:\\Users\\S7yka4\\Desktop\\SCOI2-main\\SCOI2V2\\SCOI2V2.csproj",
         "projectName": "SCOI2V2",
-        "projectPath": "D:\\загрузки\\SCOI2V2 (2)\\SCOI2V2\\SCOI2V2.csproj",
+        "projectPath": "C:\\Users\\S7yka4\\Desktop\\SCOI2-main\\SCOI2V2\\SCOI2V2.csproj",
         "packagesPath": "C:\\Users\\S7yka4\\.nuget\\packages\\",
-        "outputPath": "D:\\загрузки\\SCOI2V2 (2)\\SCOI2V2\\obj\\",
+        "outputPath": "C:\\Users\\S7yka4\\Desktop\\SCOI2-main\\SCOI2V2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VSSHIT3\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\S7yka4\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -61,7 +79,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
