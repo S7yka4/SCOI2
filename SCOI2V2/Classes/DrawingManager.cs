@@ -39,7 +39,11 @@ namespace SCOI2V2.Classes
         {
             NormolizeCoords();
             InterpolationInterface Int=null;
-            
+            Parallel.For(0, NormolizedPoints.Count - 1, i =>
+             {
+                 if (NormolizedPoints[i] == null)
+                     NormolizedPoints[i] = new Point(NormolizedPoints[i - 1].X + (NormolizedPoints[i + 1].X - NormolizedPoints[i - 1].X) / 2, NormolizedPoints[i - 1].Y + (NormolizedPoints[i + 1].Y - NormolizedPoints[i - 1].Y) / 2);
+             });
             switch (index)
             {
                 case 0: {Int = new LinearInterpolationManager(NormolizedPoints); } break;
